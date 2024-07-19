@@ -42,10 +42,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roterista de podcast de tecnlogia, focado em erp e eu gostaria de uma ajuda sua para criar 5 sugestoes de nome criativo para um 																																		|
-|		   | podcast de erp nerd feito por nerd e que tenha algum trocadilho algum trocadilho nerd no nome												 																																	|
-|		   | 																																																																				|
-|		   | O podcast vai falar sobre dicas e novidades sobre o mundo do erp e o que está acontecendo no mercado 																																											|		
+|  título  | Você é um roterista de podcast de tecnlogia, focado em erp e eu gostaria de uma ajuda sua para criar 5 sugestoes de nome criativo para um podcast de erp nerd feito por nerd e que tenha algum trocadilho algum trocadilho nerd no nome			
+|           | O podcast vai falar sobre dicas e novidades sobre o mundo do erp e o que está acontecendo no mercado 																																											|		
 |		   | 																																																																				|
 |		   | {REGRAS} 																																																																		|
 |		   | - O nome deve ser enxuto, um nome e um subtitulo 																																																								|
@@ -56,7 +54,8 @@ ChatGPT：
 |		   | - Não quero que o nome contenha palavras em inglês no titulo																																				 																	|
 |		   | - Não quero que utilize nenhuma das palavras nessa lista: JavaScript, programador								 																																								|
 |		   | - Não utilize a palavra erp no nome e nem qualquer variação dela																				 																																|
-| :------: |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
+|   |                  |
+|   |                  |
 | conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em ERP cujo o nome é "ERPQuest: Batalhas no mundo da gestão corporativa" e tem foco em sistemas ERP, com o publico alvo de iniciantes em analise de sistema erp.					|
 |		   | O formato do roteiro deve ser																																																													|
 |		   | [INTRODUÇÃO]																																																																	|
@@ -76,7 +75,7 @@ ChatGPT：
 |		   | {REGRAS NEGATIVAS}																																																																|
 |		   | - Não use muitos termos técnicos																																																												|
 |		   | - Não ultrapasse 5 minutos de duração 																																																											|
-| :------: |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
+|  |  |
 
 
 
@@ -91,14 +90,14 @@ Leonardo.AI：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts do item 'Prompts e ferramentas', para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `leonardo.ai`
 
 
-<br/><br/>
-<p>
+
+
 
 
