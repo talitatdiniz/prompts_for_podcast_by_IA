@@ -57,7 +57,7 @@ ChatGPT：
 |		   | - Não quero que o nome contenha palavras em inglês no titulo																																				 																	|
 |		   | - Não quero que utilize nenhuma das palavras nessa lista: JavaScript, programador								 																																								|
 |		   | - Não utilize a palavra erp no nome e nem qualquer variação dela																				 																																|
-| :------: |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |
+
 | conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em ERP cujo o nome é "ERPQuest: Batalhas no mundo da gestão corporativa" e tem foco em sistemas ERP, com o publico alvo de iniciantes em analise de sistema erp.					|
 |		   | O formato do roteiro deve ser																																																													|
 |		   | [INTRODUÇÃO]																																																																	|
@@ -84,9 +84,7 @@ Leonardo.AI：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | create an RPG of a female knight as final fantasy podcaster holding a microphone, yellow hair, looking forward pixar style																																						|
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+|  título  | create an RPG of a female knight as final fantasy podcaster holding a microphone, yellow hair, looking forward pixar style																														
 
 
 
